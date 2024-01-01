@@ -4,7 +4,7 @@
 Installation
 
 1. Install the project dependencies using npm: 
-   ```properties
+```properties
 npm install 
 ``` 
 
